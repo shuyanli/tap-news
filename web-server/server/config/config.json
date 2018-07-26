@@ -1,0 +1,5 @@
+{
+  "mongoDbUri" : "mongodb://shuyanli:shuyanli1015@ds227821.mlab.com:27821/usersrecord",
+  "jwtSecret" : "this is secret"
+}
+
