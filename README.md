@@ -42,3 +42,9 @@ $ python news_monitor.py &
 $ python news_fetcher.py &
 $ python news_deduper.py &
 ```
+
+### last but not least , if you really want to re-train the model for news-modeling, which is not recommanded
+
+you can do(main folder):
+cd news_topic_modeling_service/trainer
+python3 news_class_trainer.py
