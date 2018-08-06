@@ -3,7 +3,7 @@
 
 ## Overview:
 This is a web app that designed and implemented for users to read news from all over the world. Each news is a “card” in the webpage and users can scroll up and down to load more news. Every time the users click the news that they prefer to read, their click records will be saved and a model is build based on the clicks. After finding out the preference for each user, by logging in, the system can then recommend them with their preference news. Since it’s a time decaying model, the system cares more on recent user action then their history clicks. The system, however, will not feed only the preference type of news to user, but with a higher probability, based on the frequency the user clicked.
-#### check demo file for more detail
+#### --check demo file for more detail--
 
 ### Main frameworks and tools used:
 React, Node.js, Express, Redis, MongoDB, RabbitMQ
