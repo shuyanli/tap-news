@@ -6,7 +6,7 @@ This is a web app that designed and implemented for users to read news from all 
 #### --check demo file for more detail--
 
 ### Main frameworks and tools used:
-React, Node.js, Express, Redis, MongoDB, RabbitMQ
+React, Node.js, Express, Redis, MongoDB, RabbitMQ  
 Tensorflow, NLP
 
 ## to start the app with exsiting news topic modeling :
