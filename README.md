@@ -16,6 +16,7 @@ $ ./news_pipeline_launcher.sh
 ```
 
 this scrip will download everything needed from npm and run the app in localhost port 3000
+
 to terminate the app, do:
 ```
 $ sudo killall Python
